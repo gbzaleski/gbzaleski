@@ -4,7 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>University Diploma Projects</title>
-<style>
+</head>
+<body>
+   <center><a href="https://students.mimuw.edu.pl/~gz418494/README.html" role="button" style="display: inline-block; padding: 10px 20px; text-align: center; text-decoration: none; color: white; background-color: #007bff; border: none; border-radius: 5px; cursor: pointer;">
+  Correct display of this file</a></center>
+  <header>
+    <div class="header-title">Computer Science Portfolio</div>
+    <div class="university-name">University of Warsaw (MIMUW)</div>
+    <p>This portfolio contains all projects completed for my Bachelor's and Master's degrees in Computer Science.</p>
+  </header>
+
+  <style>
   body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #41b883;
@@ -31,15 +41,6 @@
     text-shadow: 0 0 1em #41b883, 0 0 0.2em #0072CE;
   }
 </style>
-</head>
-<body>
-   <center><a href="https://students.mimuw.edu.pl/~gz418494/README.html" role="button" style="display: inline-block; padding: 10px 20px; text-align: center; text-decoration: none; color: white; background-color: #007bff; border: none; border-radius: 5px; cursor: pointer;">
-  Correct display of this file</a></center>
-  <header>
-    <div class="header-title">Computer Science Portfolio</div>
-    <div class="university-name">University of Warsaw (MIMUW)</div>
-    <p>This portfolio contains all projects completed for my Bachelor's and Master's degrees in Computer Science.</p>
-  </header>
   
 <p align="center">
     <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=ASD-combined&cache_seconds=86400&theme=vue-dark">
