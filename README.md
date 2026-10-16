@@ -1,12 +1,12 @@
 
 # 🎓 Computer Science Portfolio 🎓
-### University of Warsaw — MIMUW
+### University of Warsaw - MIMUW
 
 A collection of projects completed during my Bachelor's and Master's degrees in Computer Science.
 
 ---
 
-## Projects
+## Selection of projects
 
 <p align="center">
   <a href="https://github.com/gbzaleski/ASD-combined">
