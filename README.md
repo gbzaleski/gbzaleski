@@ -1,66 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>University Diploma Projects</title>
-</head>
-<body>
-   <center><a href="https://students.mimuw.edu.pl/~gz418494/README.html" role="button" style="display: inline-block; padding: 10px 20px; text-align: center; text-decoration: none; color: white; background-color: #007bff; border: none; border-radius: 5px; cursor: pointer;">
-  Correct display of this file</a></center>
-  <header>
-    <div class="header-title">Computer Science Portfolio</div>
-    <div class="university-name">University of Warsaw (MIMUW)</div>
-    <p>This portfolio contains all projects completed for my Bachelor's and Master's degrees in Computer Science.</p>
-  </header>
 
-  <style>
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #41b883;
-    line-height: 1.6;
-    padding: 20px;
-    max-width: 100%;
-    margin: auto;
-    background: url("back.jpg");
-  }
-  header {
-    text-align: center;
-    margin-bottom: 25px;
-    font-size: 22px;
-  }
-  .header-title {
-    font-size: 32px;
-    font-weight: bold;
-  }
-  .university-name {
-    font-size: 28px;
-    color: #0072CE;
-  }
-  header > p {
-    text-shadow: 0 0 1em #41b883, 0 0 0.2em #0072CE;
-  }
-</style>
-  
+# 🎓 Computer Science Portfolio
+### University of Warsaw — MIMUW
+
+A collection of projects completed during my Bachelor's and Master's degrees in Computer Science.
+
 <p align="center">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=ASD-combined&cache_seconds=86400&theme=vue-dark">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=DE-1-Elections&cache_seconds=86400&theme=vue-dark">
+  <a href="https://students.mimuw.edu.pl/~gz418494/README.html">
+    <img src="https://img.shields.io/badge/View-Formatted%20Portfolio-0072CE?style=for-the-badge" alt="View formatted portfolio">
+  </a>
+</p>
+
+---
+
+## 📚 Projects
+
+<p align="center">
+  <a href="https://github.com/gbzaleski/ASD-combined">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=ASD-combined&theme=vue-dark" alt="ASD Combined">
+  </a>
+  <a href="https://github.com/gbzaleski/DE-1-Elections">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=DE-1-Elections&theme=vue-dark" alt="DE-1 Elections">
+  </a>
 </p>
 
 <p align="center">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=JPP-2-Lautaro-Interpreter&cache_seconds=86400&theme=vue-dark">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=MRJP-2-Latte-Compiler&cache_seconds=86400&theme=vue-dark">
+  <a href="https://github.com/gbzaleski/JPP-2-Lautaro-Interpreter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=JPP-2-Lautaro-Interpreter&theme=vue-dark" alt="Lautaro Interpreter">
+  </a>
+  <a href="https://github.com/gbzaleski/MRJP-2-Latte-Compiler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=MRJP-2-Latte-Compiler&theme=vue-dark" alt="Latte Compiler">
+  </a>
 </p>
 
 <p align="center">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=HPC-Combined&cache_seconds=86400&theme=vue-dark">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=LDI-Combined&cache_seconds=86400&theme=vue-dark">
+  <a href="https://github.com/gbzaleski/HPC-Combined">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=HPC-Combined&theme=vue-dark" alt="HPC Combined">
+  </a>
+  <a href="https://github.com/gbzaleski/LDI-Combined">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=LDI-Combined&theme=vue-dark" alt="LDI Combined">
+  </a>
 </p>
 
 <p align="center">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=JNP3-Instagram&cache_seconds=86400&theme=vue-dark">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=SK-2-Worms-Screen-Game&cache_seconds=86400&theme=vue-dark">
+  <a href="https://github.com/gbzaleski/JNP3-Instagram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=JNP3-Instagram&theme=vue-dark" alt="JNP3 Instagram">
+  </a>
+  <a href="https://github.com/gbzaleski/SK-2-Worms-Screen-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gbzaleski&repo=SK-2-Worms-Screen-Game&theme=vue-dark" alt="Worms Screen Game">
+  </a>
 </p>
 
-</body>
-</html>
+---
+
+<p align="center">
+  <i>Computer Science · University of Warsaw (MIMUW)</i>
+</p>
