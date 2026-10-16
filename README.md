@@ -1,18 +1,11 @@
 
-# 🎓 Computer Science Portfolio
+# 🎓 Computer Science Portfolio 🎓
 ### University of Warsaw — MIMUW
 
 A collection of projects completed during my Bachelor's and Master's degrees in Computer Science.
-
-<p align="center">
-  <a href="https://students.mimuw.edu.pl/~gz418494/README.html">
-    <img src="https://img.shields.io/badge/View-Formatted%20Portfolio-0072CE?style=for-the-badge" alt="View formatted portfolio">
-  </a>
-</p>
-
 ---
 
-## 📚 Projects
+## Selection of Projects
 
 <p align="center">
   <a href="https://github.com/gbzaleski/ASD-combined">
